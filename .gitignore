@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+
+.streamlit/
+graph.html
+
+.DS_Store
+Thumbs.db
